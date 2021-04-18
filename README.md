@@ -29,3 +29,6 @@ Crop Yield Prediction Visualization, National level analysis of crop data showin
 ## Tech Stack:
 
 Python, MongoDB, Pandas, Numpy, ReactJS, Express, E-Charts, GitHub
+
+## More details:
+[USAPA Presentation](https://docs.google.com/presentation/d/1o96gGIeY_XP5TtKJUUYiC037MYXOqR4enYGH7VRa5fA/edit?usp=sharing)
